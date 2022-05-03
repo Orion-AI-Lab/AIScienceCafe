@@ -1,6 +1,5 @@
 <p float="left">
-  <img src="images/noa_logo.jpg" width="150"style="vertical-align:middle;margin:0px 20px 0px 0px" />
-  <img src="images/ORION_logo_transparent_background.png" width="150" />
+  <img src="images/ORION_logo_transparent_background.png" width="150" style="vertical-align:middle;margin:0px 10px 0px 0px" />
 </p>
 
 
