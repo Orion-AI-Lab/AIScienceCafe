@@ -3,7 +3,7 @@
 </p>
 
 
-## AI Science Cafe
+## AI Science Café
 
 Organised by Orion Lab (NOA).
 
