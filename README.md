@@ -14,3 +14,4 @@ Topics are centered around the application of Deep Learning techniques on Remote
 Date | Presenter | Paper | Presentation | Recording
 -- | --- | --- | --- | ---
 13-05-2022  | N. I. Bountos | [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206) | [Link](https://github.com/Orion-AI-Lab/AIScienceCafe/blob/main/presentations/2022_05_13-NBountos-Perceiver.pdf) | -
+20-05-2022 | N. I. Bountos | [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824) | [Link](https://github.com/Orion-AI-Lab/AIScienceCafe/blob/main/presentations/FNet.pdf) | -
